@@ -1,1 +1,1 @@
-Кредитный скоринг по датасету House Price Prediction из Kaggle
+предсказание цен на жилье по датасету House Price Prediction из Kaggle
